@@ -1,2 +1,2 @@
-# bat-encrypt
-Batch script encryption tool
+# Bat Encrypt
+This tool can encrypt batch file to unreadable.
