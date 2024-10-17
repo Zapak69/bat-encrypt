@@ -6,4 +6,5 @@ You can use parameters for example:
 convert.exe your-script.bat
 ```
 
+## Preview:
 ![alt text](https://github.com/Zapak69/bat-encrypt/blob/main/screenshot.png?raw=true)
